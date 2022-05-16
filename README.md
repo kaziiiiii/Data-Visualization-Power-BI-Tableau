@@ -1,6 +1,6 @@
 # Covid-19-USA-Dashboard
 
-I build a model, Report, dashboard by querying real life covid data
+A model, Report, dashboard by querying real life covid data
 Repository(https://github.com/owid/covid-19-data/blob/master/public/data/README.md).
 from
 GitHub
